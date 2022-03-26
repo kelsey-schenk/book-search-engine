@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "apollo": "^2.33.9",
+    "express": "^4.17.3"
+  }
+}
